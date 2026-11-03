@@ -1,2 +1,2 @@
 # -Programa-o
-Vou colocar no meu repositório  com  atividades,textos,sobre conteúdos
+Vou colocar no meu repositório: atividades e etcc
